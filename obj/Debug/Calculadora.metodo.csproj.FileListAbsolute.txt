@@ -1,0 +1,8 @@
+C:\Users\carol\source\repos\Calculadora.metodo\obj\Debug\Calculadora.metodo.csproj.AssemblyReference.cache
+C:\Users\carol\source\repos\Calculadora.metodo\obj\Debug\Calculadora.metodo.csproj.SuggestedBindingRedirects.cache
+C:\Users\carol\source\repos\Calculadora.metodo\obj\Debug\Calculadora.metodo.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\Calculadora.metodo\bin\Debug\Calculadora.metodo.exe.config
+C:\Users\carol\source\repos\Calculadora.metodo\bin\Debug\Calculadora.metodo.exe
+C:\Users\carol\source\repos\Calculadora.metodo\bin\Debug\Calculadora.metodo.pdb
+C:\Users\carol\source\repos\Calculadora.metodo\obj\Debug\Calculadora.metodo.exe
+C:\Users\carol\source\repos\Calculadora.metodo\obj\Debug\Calculadora.metodo.pdb
